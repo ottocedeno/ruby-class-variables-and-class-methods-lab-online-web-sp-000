@@ -39,6 +39,7 @@ class Song
 
   def self.genre_count
     genres_count = {}
+    genres
   end
 
 end
