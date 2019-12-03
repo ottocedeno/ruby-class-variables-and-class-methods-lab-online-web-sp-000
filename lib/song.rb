@@ -22,7 +22,7 @@ class Song
   def self.artists
     unique_artists = []
     @@artists.eact do |artist|
-      @@artist.include
+      unique_artists << artist if unique_artists.include?(artist)
     end
   end
 end
