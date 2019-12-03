@@ -21,7 +21,7 @@ class Song
 
   def self.artists
     unique_artists = []
-    @@artists.select do |artist|
+    @@artists.eact do |artist|
       @@artist.include
     end
   end
