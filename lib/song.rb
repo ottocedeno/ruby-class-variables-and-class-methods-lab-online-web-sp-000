@@ -38,6 +38,7 @@ class Song
   end
 
   def self.genre_count
+    binding.pry
     puts genres
   end
 
