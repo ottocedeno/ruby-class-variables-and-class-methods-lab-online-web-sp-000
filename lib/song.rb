@@ -24,5 +24,6 @@ class Song
     @@artists.eact do |artist|
       unique_artists << artist if !unique_artists.include?(artist)
     end
+    unique_artists
   end
 end
