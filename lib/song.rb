@@ -45,7 +45,7 @@ class Song
 end
 
 Song.new("Blackened", "Metallica", "Metal")
-Song.new("Smells Like Teen Spirit", "Nirvana", "Nevermind")
+Song.new("Smells Like Teen Spirit", "Nirvana", "Garage Rock")
 Song.new("No Quarter", "Led Zeppelin", "Coda")
 
 Song.genre_count
