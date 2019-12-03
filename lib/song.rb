@@ -28,7 +28,7 @@ class Song
   end
 
   def self.genres
-
+    unique_genres
   end
 
 end
