@@ -20,6 +20,9 @@ class Song
   end
 
   def self.artists
-    @@artists
+    unique_artists = []
+    @@artists.select do |artist|
+      @@artist.include
+    end
   end
 end
