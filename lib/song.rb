@@ -47,3 +47,5 @@ end
 Song.new("Blackened", "Metallica", "And Justice for All")
 Song.new("Smells Like Teen Spirit", "Nirvana", "Nevermind")
 Song.new("No Quarter", "Led Zeppelin", "Coda")
+
+Song.genre_count
