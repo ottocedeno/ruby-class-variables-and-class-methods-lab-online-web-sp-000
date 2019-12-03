@@ -32,5 +32,5 @@ class Song
     @@genres.each do |genre|
       unique_genres << genre unless unique_genres.include?(genre)
   end
-
+  unique_genres
 end
