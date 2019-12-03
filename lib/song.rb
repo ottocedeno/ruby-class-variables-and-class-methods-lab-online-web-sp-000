@@ -43,3 +43,5 @@ class Song
   end
 
 end
+
+Song.new("Blackened", "Metallica", "And Justice for All")
