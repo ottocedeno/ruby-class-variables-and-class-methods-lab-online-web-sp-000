@@ -29,6 +29,8 @@ class Song
 
   def self.genres
     unique_genres = []
+    @@genres.each do |genre|
+      
   end
 
 end
