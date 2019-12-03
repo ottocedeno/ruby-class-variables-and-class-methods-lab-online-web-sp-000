@@ -44,7 +44,7 @@ class Song
 
 end
 
-Song.new("Blackened", "Metallica", "And Justice for All")
+Song.new("Blackened", "Metallica", "Metal")
 Song.new("Smells Like Teen Spirit", "Nirvana", "Nevermind")
 Song.new("No Quarter", "Led Zeppelin", "Coda")
 
