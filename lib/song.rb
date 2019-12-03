@@ -27,6 +27,8 @@ class Song
     unique_artists
   end
 
-
+  def self.genres
+    
+  end
   
 end
