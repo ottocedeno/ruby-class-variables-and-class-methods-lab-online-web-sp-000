@@ -38,5 +38,5 @@ class Song
   def self.genre_count
     puts genres
   end
-  
+
 end
